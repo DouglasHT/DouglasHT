@@ -6,7 +6,7 @@
 
 ```
 object **DOUGLAS** {
- val name = "Douglas H. Tripoloni"
+ val name = "Douglas H. T"
  val acknowledgements = "Cientista da Computação"
  
  val primarySkillset = "Desenvolvedor Full-Stack"
